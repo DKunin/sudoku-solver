@@ -1,0 +1,23 @@
+{
+  "name": "sudoku-solver",
+  "version": "0.0.1",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dkunin/sudoku-solver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkunin/sudoku-solver/issues"
+  },
+  "scripts": {
+    "test": "echo test",
+    "start": "node ./",
+    "dev": "node ./",
+    "build": "NODE_ENV=production node ./"
+  },
+  "homepage": "https://github.com/dkunin/sudoku-solver",
+  "keywords": [],
+  "license": "MIT",
+  "description": "> This is an example file with default selections."
+}
